@@ -1,1 +1,1 @@
-# safari-landing-page [Интернет магазин](Roman121082.github.io/safari-landing-page)
+# safari-landing-page https://roman121082.github.io/safari-landing-page/
